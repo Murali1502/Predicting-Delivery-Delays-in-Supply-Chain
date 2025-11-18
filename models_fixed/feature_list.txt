@@ -1,0 +1,26 @@
+# Features used for prediction (known at order time)
+# Generated: 2025-11-18 23:48:41
+
+Days for shipment (scheduled)
+order_hour
+order_day_of_week
+order_month
+order_quarter
+order_day_of_month
+is_weekend
+is_business_hours
+is_month_end
+Shipping Mode
+Type
+Department Id
+Category Id
+Product Category Id
+Order Item Quantity
+Order Item Discount
+Order Item Profit Ratio
+Sales
+Order Item Total
+discount_per_item
+high_discount_flag
+price_per_item
+urgent_shipment
